@@ -8,15 +8,15 @@ You can add quotes to Nervos chain and get random 3 quotes from smart contract s
 
 Go to <a href="https://youtu.be/G2a-xGpjdh8"> YOUTUBE VIDEO </a> to see project explanation(No sound but everything explained clearly)
 
-<img src=""/>
+<img src="https://github.com/uguryuksel/nervos-hack/blob/master/task7-Porting%20Dapp/ss1.png"/>
 <hr/>
-<img src=""/>
+<img src="https://github.com/uguryuksel/nervos-hack/blob/master/task7-Porting%20Dapp/ss2.png"/>
 <hr/>
-<img src=""/>
+<img src="https://github.com/uguryuksel/nervos-hack/blob/master/task7-Porting%20Dapp/ss3.png"/>
 
 ### 2- Project Github Link
 
-Go to <a href=""> GITHUB REPO </a> to see project source code
+Go to <a href="https://github.com/uguryuksel/task7"> GITHUB REPO </a> to see project source code
 
 ### 3- Contract Details
 
